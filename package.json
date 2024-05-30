@@ -17,7 +17,7 @@
     "browserify-shim": "^3.8.14",
     "gulp": "^3.9.1",
     "gulp-run": "^1.7.1",
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.7.7",
     "hbsfy": "^2.7.0"
   },
   "browserify-shim": {
